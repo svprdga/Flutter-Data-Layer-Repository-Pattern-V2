@@ -1,4 +1,4 @@
-import 'package:flutter_data_layer_repository_pattern_v2/data/database/dao/asset_dao.dart';
+import 'package:flutter_data_layer_repository_pattern_v2/data/database/dao/recipe_dao.dart';
 import 'package:flutter_data_layer_repository_pattern_v2/data/mapper.dart';
 import 'package:flutter_data_layer_repository_pattern_v2/data/network/client/api_client.dart';
 import 'package:flutter_data_layer_repository_pattern_v2/domain/recipe.dart';

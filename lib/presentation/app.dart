@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_data_layer_repository_pattern_v2/data.dart';
-import 'package:flutter_data_layer_repository_pattern_v2/data/database/dao/asset_dao.dart';
+import 'package:flutter_data_layer_repository_pattern_v2/data/database/dao/recipe_dao.dart';
 import 'package:flutter_data_layer_repository_pattern_v2/data/mapper.dart';
 import 'package:flutter_data_layer_repository_pattern_v2/data/network/client/api_client.dart';
 import 'package:flutter_data_layer_repository_pattern_v2/data/repository/recipe_repository.dart';
